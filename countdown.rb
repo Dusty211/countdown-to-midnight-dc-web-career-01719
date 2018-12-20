@@ -1,6 +1,4 @@
-#write your code here
 
-#require 'pry'
 
 def countdown(number)
   while number > 0 do
@@ -18,5 +16,3 @@ def countdown_with_sleep(number)
   end
 "HAPPY NEW YEAR!"
 end
-
-#binding.pry
